@@ -25,11 +25,12 @@ Property_Area --> Type of locality of property which the candidate has given as 
     - handles missing/null values 
     - handles outliers
     - encoding object type features
-    - normalizing numerical features <<<<<<<<<<<>>>>>>>>>>>
+    - normalizing numerical features
     - data visualization
     - handles class imbalance
 2_model_training.ipynb
     - feature selection
+    - splitting data into train and test
     - training models
         * Logistic Regression
         * Random Forest Classifier
@@ -37,5 +38,7 @@ Property_Area --> Type of locality of property which the candidate has given as 
         * Support Vector Machines
         * Artificial Neural Networks
 3_model_evaluation.ipynb
-    - dsdksmdskm
+    - accuracy score
+    - confusion matrix
+    - AUC-ROC curve
 ```
