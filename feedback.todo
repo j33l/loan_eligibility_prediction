@@ -1,0 +1,3 @@
+[ ] Create separate blocks for each plot of data visulation
+[x] Create only 1 notebook for both model training and evaluation
+[ ] Show Model accuracy right under Model training for each model
